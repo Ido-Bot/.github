@@ -1,1 +1,1 @@
-# Ido The Bot is a WhatsApp bot designed to facilitate the use of WhatsApp and add new features and possibilities
+# Ido The Bot is a WhatsApp bot designed to make it easier to use and add new options to WhatsApp
