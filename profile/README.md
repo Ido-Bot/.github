@@ -1,1 +1,1 @@
-# Ido is a WhatsApp bot designed to make WhatsApp easier to use for everyone
+# Ido is a multipurpose WhatsApp bot designed to make WhatsApp easier to use for everyone
